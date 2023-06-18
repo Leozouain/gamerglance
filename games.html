@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--Bootstrap-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" />
+    <!--CSS-->
+    <link rel="stylesheet" href="styles.css" />
+    <title>Gamer Glance</title>
+  </head>
+  <body>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg navbar-light sticky-top nav-opacity">
+      <div class="container">
+        <a class="navbar-brand" href="#">
+          <img src="/src/img/logo.png" alt="" height="60px" />
+          <img src="/src/img/gg-text.png" alt="" height="60px" class="d-none d-sm-inline" />
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item active">
+              <a class="nav-link nav-btn" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link nav-btn" href="games.html">Best <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link nav-btn" href="misses.html">Worst</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link nav-btn" href="upcoming.html">Anticipated</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <header>
+      <section class="hero-section text-center py-3">
+        <div class="container">
+          <div class="m-auto container text-center p-5 rounded shade-banner">
+            <h1 class="font-weight-bolder h1">🔥🔥 Welcome to Gamer Glance - Hottest Games 🔥🔥</h1>
+            <p class="lead">A Decade's Worth of Greatness: Discover the Top Ten Games that Shaped Gaming History.</p>
+          </div>
+        </div>
+      </section>
+    </header>
+    <!--CONTENT SECTION-->
+
+    <!-- <div class="banner"></div> -->
+
+    <section class="container d-flex justify-content-center">
+      <div id="grid" class="row">
+        <!--So all the data going to be placed here dynamically-->
+      </div>
+    </section>
+
+    <!--Footer-->
+
+    <footer style="background-color: rgba(156, 153, 150, 0.695)">
+      <div class="container d-flex justify-content-center footer-custom">
+        <div class="row line py-5">
+          <!--LINKS-->
+          <div class="col d-flex flex-column flex-md-row justify-content-center">
+            <a class="navbar-brand d-flex justify-content-center" href="#">
+              <img src="/src/img/logo.png" alt="" height="40px" />
+              <img src="/src/img/gamerGlance.png" alt="" height="25px" class="d-sm-none d-inline" />
+            </a>
+            <a href="" class="btn btn-footer mx-2 d-flex"
+              ><img src="/src/img/icons8-playstation.svg" alt="" height="30px" />
+              PLAYSTATION
+            </a>
+            <a href="" class="btn btn-footer mx-2 d-flex"
+              ><img src="/src/img/icons8-xbox-50.png" alt="" height="30px" />
+              XBOX
+            </a>
+            <a href="" class="btn btn-footer mx-2 d-flex"
+              ><img src="/src/img/icons8-pc-50.png" alt="" height="30px" />
+              PC
+            </a>
+            <a href="" class="btn btn-footer mx-2 d-flex"
+              ><img src="/src/img/icons8-atari-retro-24.png" alt="" height="30px" />
+              RETRO
+            </a>
+            <a href="" class="btn btn-footer mx-2 d-flex"
+              ><img src="/src/img/icons8-nintendo-30.png" alt="" height="30px" />
+              NINTENDO
+            </a>
+          </div>
+        </div>
+      </div>
+      <small class="d-sm-flex d-block justify-content-center text-center py-2">
+        Designed with <span> <img class="heart mx-2" src="/src/img/icons8-heart-50.png" height="25px" alt="" /></span> and teamwork by <a href="" class="mx-1"> LeoZouain </a> &
+        <a href="" class="mx-1"> Jamie Fury </a> © 2023</small
+      >
+    </footer>
+
+    <!--script bootstrap-->
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
+      crossorigin="anonymous"
+    ></script>
+
+    <script src="./script.js"></script>
+  </body>
+</html>

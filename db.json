@@ -1,0 +1,116 @@
+{
+  "games": {
+    "best":[
+    {
+      "id": 1,
+      "name": "The Witcher 3: Wild Hunt",
+      "shortReview": "An epic open-world RPG",
+      "review": "The Witcher 3: Wild Hunt is one of the best RPG games ever created. With its engaging story, stunning graphics, and vast open world to explore, players are immersed in a unique experience.",
+      "platform": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "rating": 92,
+      "imgUrl": "https://i0.wp.com/xboxera.com/wp-content/uploads/2021/07/The-Witcher-3.jpeg?fit=1920%2C1080&ssl=1",
+      "cover": "https://media.gamestop.com/i/gamestop/10132184-360e9255",
+      "year": 2015
+    },
+    {
+      "id": 2,
+      "name": "Zelda: Breath of the Wild",
+      "shortReview": "An incredible open world",
+      "review": "The Legend of Zelda: Breath of the Wild redefines the adventure game genre. With its vast open landscape and innovative mechanics, it offers players the freedom to explore and discover something new around every corner.",
+      "platform": ["Nintendo Switch", "Wii U"],
+      "rating": 97,
+      "imgUrl": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58",
+      "cover": "https://media.gamestop.com/i/gamestop/10141904/The-Legend-of-Zelda-Breath-of-the-Wild---Nintendo-Switch",
+      "year": 2017
+    },
+    {
+      "id": 3,
+      "name": "Red Dead Redemption 2",
+      "shortReview": "An epic Western tale",
+      "review": "Red Dead Redemption 2 is a masterpiece of storytelling in gaming. With its richly detailed open world and engaging narrative, players embark on a thrilling journey in the Old West.",
+      "platform": ["PlayStation 4", "Xbox One", "PC", "Google Stadia"],
+      "rating": 97,
+      "imgUrl": "https://thenerdstash.com/wp-content/uploads/2018/05/RDR2PRIMARY.jpg",
+      "cover": "https://assets.vg247.com/current//2018/05/red_dead_redemption_2_cover_art_1.jpg",
+      "year": 2018
+    },
+    {
+      "id": 4,
+      "name": "The Last of Us",
+      "shortReview": "A captivating post-apocalyptic game",
+      "review": "The Last of Us is a masterpiece of the survival game genre. With its gripping storyline and well-developed characters, the game immerses players in a dark and dangerous post-apocalyptic world.",
+      "platform": ["PlayStation 3", "PlayStation 4"],
+      "rating": 95,
+      "imgUrl": "https://insider-gaming.com/wp-content/uploads/2023/03/what-is-the-last-of-us-about-cover.jpg",
+      "cover": "https://cdn.mobygames.com/covers/3063851-the-last-of-us-remastered-playstation-4-front-cover.jpg",
+      "year": 2013
+    },
+    {
+      "id": 5,
+      "name": "Dark Souls",
+      "shortReview": "A rewarding challenge",
+      "review": "Dark Souls is known for its challenging gameplay and dark atmosphere. Players are tested at every step as they explore a world full of dangers and powerful bosses.",
+      "platform": ["PlayStation 3", "Xbox 360", "PC"],
+      "rating": 89,
+      "imgUrl": "https://www.gematsu.com/wp-content/uploads/2011/05/Dark-Souls-Jap-Box-Art.jpg",
+      "cover": "https://external-preview.redd.it/gwzjzVPTAbZ2lpf0x7PGOJ0JvKr5-LiBrpmmv34S2-E.jpg?auto=webp&s=1e204392cef01cdf13cd79d8016cc1408b2aecf8",
+      "year": 2011
+    },
+    {
+      "id": 6,
+      "name": "Overwatch",
+      "shortReview": "Competitive team action",
+      "review": "Overwatch is a team-based shooter that has captivated the gaming community. With its charismatic characters and dynamic gameplay, it offers an engaging and competitive multiplayer experience.",
+      "platform": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "rating": 91,
+      "imgUrl": "https://www.gameinformer.com/sites/default/files/styles/full/public/2022/09/29/6e3299b8/ow2-2.jpg",
+      "cover": "https://m.media-amazon.com/images/I/71x2LX8DtuL.jpg",
+      "year": 2016
+    },
+    {
+      "id": 7,
+      "name": "God of War",
+      "shortReview": "Epic battles in Norse mythology",
+      "review": "God of War features intense combat and a powerful narrative based on Norse mythology. With stunning graphics and immersive gameplay, the game has won the hearts of players.",
+      "platform": ["PlayStation 4", "PlayStation 5"],
+      "rating": 94,
+      "imgUrl": "https://i.ytimg.com/vi/_20c_V2Er88/maxresdefault.jpg",
+      "cover": "https://images.squarespace-cdn.com/content/v1/5355c418e4b0753f93e1fb25/1523298148039-ADV3QU1A2FVCXLL2Q490/198187-god-of-war-playstation-2-front-cover.png",
+      "year": 2018
+    },
+    {
+      "id": 8,
+      "name": "Minecraft",
+      "shortReview": "A world of possibilities",
+      "review": "Minecraft is a construction and exploration game that allows players to unleash their creativity. With its simple gameplay and endless possibilities, it has become a global phenomenon.",
+      "platform": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "iOS", "Android"],
+      "rating": 93,
+      "imgUrl": "https://store-images.s-microsoft.com/image/apps.2678.14492077886571533.a48e9a4a-99a7-44a9-9d97-9e8e72220a7c.6b98c506-61b7-4126-80b6-449f2ff0fb96?mode=scale&q=90&h=1080&w=1920&background=%23FFFFFF",
+      "cover": "https://art.gametdb.com/switch/coverHQ/US/AEUCA.jpg",
+      "year": 2011
+    },
+    {
+      "id": 9,
+      "name": "Grand Theft Auto V",
+      "shortReview": "An open world full of possibilities",
+      "review": "Grand Theft Auto V is an open-world action game that offers a vast and diverse experience. With an engaging story and a huge map to explore, it is one of the most popular games of the decade.",
+      "platform": ["PlayStation 3", "PlayStation 4", "Xbox 360", "Xbox One", "PC"],
+      "rating": 96,
+      "imgUrl": "https://static.lagofast.com/uploads/lago_game_article/gta5_20220715113007_501.jpeg",
+      "cover": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait%20Store%20Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg",
+      "year": 2013
+    },
+    {
+      "id": 10,
+      "name": "Bloodborne",
+      "shortReview": "A challenging action RPG",
+      "review": "Bloodborne is known for its challenging gameplay and gothic atmosphere. With intense combat and a dark setting, it offers an immersive experience for fans of action RPGs.",
+      "platform": ["PlayStation 4"],
+      "rating": 92,
+      "imgUrl": "https://culturedvultures.com/wp-content/uploads/2016/09/Bloodborne.jpg",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2614/Sy5e8DmeKIJVjlAGraPAJYkT.png",
+      "year": 2015
+    }
+  ]
+}
+}
